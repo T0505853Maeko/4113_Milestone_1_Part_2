@@ -9,7 +9,7 @@
 | Student ID Number  | P505853                                                                 |
 | Date of Submission | 14 June 2026                                                            |
 | Word Count         |                                                                         |
-| GitHub Link        |                                                                         |
+| GitHub Link        | https://github.com/T0505853Maeko/4113_Milestone_1_Part_2                |
 
 - [ ] *I confirm that this assignment is my own work. Where I have referred to academic sources, I have provided in-text citations and included the sources in
   the final reference list.*
@@ -22,7 +22,24 @@
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-*Add purpose of the program, identify core program functionality and system contraints.*
+designed to help riders track the cost of daily travel. A rider can enter each journey manually or import journeys from a CSV file. The system calculates the fare using the number of zones crossed and whether the journey is peak or off-peak. The system then applies passenger discounts and daily caps so that the user can see accurate running totals and savings. The administrator section makes the system more flexible because fares, discounts, caps and peak windows can be updated without rewriting the whole program. This is similar to real transport systems where fare rules can change over time.
+
+------------------------------------------------------------------------------------------------------------------------------
+
+### Flowcharts
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Main Flowchart
+![IY4113_flowchart_main.jpg](IY4113_flowchart_main.jpg)
+
+Menu Flowchart
+![Menu_flowchart.jpg](Menu_flowchart.jpg)
+
+Fare calculator Flowchart
+![Fare_calculator_flowchart.jpg](Fare_calculator_flowchart.jpg)
+
+
 
 ------------------------------------------------------------------------------------------------------------------------------
 
