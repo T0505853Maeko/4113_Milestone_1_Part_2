@@ -39,6 +39,8 @@ Menu Flowchart
 Fare calculator Flowchart
 ![Fare_calculator_flowchart.jpg](Fare_calculator_flowchart.jpg)
 
+Admin Flowchart
+![Admin_Flowchart.jpg](Admin_Flowchart.jpg)
 
 
 ------------------------------------------------------------------------------------------------------------------------------
