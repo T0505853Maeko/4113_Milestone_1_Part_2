@@ -150,15 +150,49 @@ IPO Tables
 ------------------------------------------------------------------------------------------------------------------------------Name of program:
 
 Reference (link):
+https://tfl.gov.uk/fares/find-fares/capping
+https://tfl.gov.uk/fares/ways-to-pay/pay-as-you-go
 
 What it does well (2-3 features that work effectively):
 
+TfL's Oyster and Contactless systems work well because they automatically calculate the correct fare when passengers travel. Users do not need to manually calculate the price for each trip because the system checks the trip information and applies the correct fare.
+
+Another useful feature is daily rate limiting. This means passengers can make multiple trips in a day, but once their total trips reach the daily limit, they will not be charged more than that amount. This is useful for CityRide Lite because my program also needs to calculate daily totals and apply daily limits.
+
+The system also supports various payment methods, including Oyster cards and contactless payment cards. This is similar to passenger profiles in CityRide Lite, where users can save default payment options.
+
 What it does poorly (at least 1 feature):
+
+One drawback is that the tariff rules can be difficult for new users to understand. The system includes different zones, peak and off-peak times, daily and weekly limits. This can be confusing for users who want to understand exactly how their final tariff is calculated.
 
 Key design ideas you could reuse (e.g., layout, navigation, input/output, program structure):
 
-Screenshot (showing the interface/output):
+I can reuse the automatic fare capping idea in my CityRide Lite program. After each trip is added, the program should calculate the cumulative total and check whether the daily limit has been reached. I can also reuse the idea to display clear fare information to passengers, including the base fare, any discounts applied, the applicable fare, and whether any fare caps have been applied.
 
+Screenshot (showing the interface/output):
+![PicOfResearch1.jpg](PicOfResearch1.jpg)
+------------------------------------------------------------------------------------------------------------------------------
+Reference (link):
+https://citymapper.com/
+
+What it does well (2-3 features that work effectively):
+
+Citymapper works well because it provides users with clear travel options for public transportation, walking, cycling, and other transportation methods. The app allows users to compare different routes, making trip planning easier.
+
+Another useful feature is that Citymapper presents trip information in a simple and user-friendly way. Users enter a starting point and destination, and the app then displays possible trips. This is useful for CityRide Lite because my app also requires clear menus and instructions so users understand what information to enter.
+
+Citymapper also provides real-time trip information and step-by-step directions. While my CityRide Lite app doesn't require real-time tracking, the idea of ​​displaying clear trip details can be reused when displaying trip logs and daily summaries.
+
+What it does poorly (at least 1 feature):
+
+One drawback is that Citymapper relies heavily on an internet connection and live transportation data. If live data is missing or inaccurate, route information may not be entirely reliable. For my college project, I was able to avoid this issue by using local travel data, JSON files, and CSV files, instead of relying on live online data.
+
+Key design ideas you could reuse (e.g., layout, navigation, input/output, program structure):
+
+I can reuse the idea of simple input and clear output. Citymapper requests trip information from users and then presents the results in an organized manner. In CityRide Lite, I can use a menu-based structure where riders can add trips, view totals, export reports, and save their profiles.
+
+Screenshot (showing the interface/output):
+![PicOfResearch2.jpg](PicOfResearch2.jpg)
 ------------------------------------------------------------------------------------------------------------------------------
 
 ### Gantt Chart
