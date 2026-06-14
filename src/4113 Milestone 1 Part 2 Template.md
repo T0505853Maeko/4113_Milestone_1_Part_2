@@ -37,11 +37,15 @@ Menu Flowchart
 ![Menu_flowchart.jpg](Menu_flowchart.jpg)
 
 Fare calculator Flowchart
-![Fare_calculator_flowchart.jpg](Fare_calculator_flowchart.jpg)
-
+![Fare_Calculator_Flowchart.jpg](Fare_Calculator_Flowchart.jpg)
 Admin Flowchart
 ![Admin_Flowchart.jpg](Admin_Flowchart.jpg)
 
+Import CSV Flowchart
+![ImportCSV_Flowchart.jpg](ImportCSV_Flowchart.jpg)
+
+Report Flowchart
+![Report_Flowchart.jpg](Report_Flowchart.jpg)
 
 ------------------------------------------------------------------------------------------------------------------------------
 
