@@ -171,7 +171,9 @@ I can reuse the automatic fare capping idea in my CityRide Lite program. After e
 
 Screenshot (showing the interface/output):
 ![PicOfResearch1.jpg](PicOfResearch1.jpg)
+
 ------------------------------------------------------------------------------------------------------------------------------
+
 Reference (link):
 https://citymapper.com/
 
@@ -193,13 +195,14 @@ I can reuse the idea of simple input and clear output. Citymapper requests trip 
 
 Screenshot (showing the interface/output):
 ![PicOfResearch2.jpg](PicOfResearch2.jpg)
+
 ------------------------------------------------------------------------------------------------------------------------------
 
 ### Gantt Chart
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-*Add Gantt Chart (it maybe easier to create chart in Excel and paste as an image!)*
+![Screenshot 2026-06-14 at 17.53.56.png](Screenshot%202026-06-14%20at%2017.53.56.png)
 
 ------------------------------------------------------------------------------------------------------------------------------
 
@@ -207,6 +210,32 @@ Screenshot (showing the interface/output):
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-*Add diary entries here detailing what you have done, wny you have done it, and any problems encountered.*
+#### 8 June 2026
+
+Today I reviewed the assignment brief and Milestone 1 template. I identified the purpose of the CityRide Lite Part 2 program, the core functionality, and the system constraints. I also created the Input/Process/Output table for the main program functions. This helped me understand what data the program needs, how it should process the data, and what outputs should be produced.
+
+#### 9 June 2026
+
+Today I created the Main Flowchart, Menu Flowchart, and Fare Calculator Flowchart. These flowcharts helped me design the main structure of the program and the order of the fare calculation process. I made sure the fare calculator included zones, peak/off-peak travel, passenger discounts, and daily caps.
+
+#### 10 June 2026
+
+Today I created the Admin Flowchart, ImportCSV Flowchart, and Report Flowchart. I also added research evidence and references for similar transport programs. I used TfL as research for fare capping and Citymapper as research for journey planning. This helped me understand how real transport systems manage journeys, fares, and user-friendly travel information.
+
+#### 11 June 2026
+
+Today I created the class diagram and improved the object-oriented design section. I planned the main classes, including Rider, Admin, Journey, FareConfig, FareCalculator, JourneyManager, CsvService, and ReportService. This helped me organise the program into smaller parts with clear responsibilities.
+
+#### 12 June 2026
+
+Today I updated the Gantt chart and checked that the project plan matched the work I had completed. I made sure the timeline showed the IPO table, flowcharts, research, references, class diagram, and final review tasks clearly.
+
+#### 13 June 2026
+
+Today I wrote and improved the diary/blog section. I checked that each diary entry explained what I did, why I did it, and any problems I faced. I also reviewed the Milestone 1 document to make sure the writing was clear and suitable for submission.
+
+#### 14 June 2026
+
+Today I completed the final review of Milestone 1. I checked the formatting, spelling, image links, flowcharts, Gantt chart, references, and overall document structure. I also prepared the final version for GitHub upload and PDF export.
 
 ------------------------------------------------------------------------------------------------------------------------------
